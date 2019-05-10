@@ -1,2 +1,2 @@
-# lab_tools
+# lab-tools
 General Collection of Lab Tools
