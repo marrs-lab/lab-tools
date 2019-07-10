@@ -12,7 +12,13 @@ General Collection of Lab Tools, Code/Data from Papers, and Educational Resource
   
 ### Open Access Code and Data from Lab Papers
 * Code for Methods in Ecology and Evolution paper: "A Convolutional Neural Network for Detecting Sea Turtles in Drone Imagery"
-  * https://github.com/patrickcgray/cnn_sea_turtle_detection
+  * Code: https://github.com/patrickcgray/cnn_sea_turtle_detection
+  * Data: https://doi.org/10.5061/dryad.5h06vv2
+  * Paper available at: https://doi.org/10.1111/2041-210X.13132
+* Code for Methods in Ecology and Evolution paper: "Drones and Convolutional Neural Networks Facilitate Automated and Accurate Cetacean Species Identification and Photogrammetry"
+  * Code: https://github.com/patrickcgray/cetacean_photogram
+  * Data: http://doi.org/10.5061/dryad.7482v2n
+  * Paper available at: https://doi.org/10.1111/2041-210X.13246
   
   
 ### Open Source Educational Materials
