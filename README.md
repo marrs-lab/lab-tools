@@ -9,6 +9,9 @@ General Collection of Lab Tools, Code/Data from Papers, and Educational Resource
 * Publicly Available API for automatic species identification and photogrammetric measurement of whales.
   * https://github.com/patrickcgray/cetacean_photogram_api
 
+* Publicly Available photogrammetry scripts to improve the workflow.
+  * https://github.com/cbirdferrer/photogrammetry-scripts
+
   
 ### Open Access Code and Data from Lab Papers
 * Code for Methods in Ecology and Evolution paper: "A Convolutional Neural Network for Detecting Sea Turtles in Drone Imagery"
